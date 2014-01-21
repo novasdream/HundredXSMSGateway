@@ -1,9 +1,4 @@
-﻿/*
- DESENVOLVIDO POR VICTOR TASSINARI MARTINS
- * victortassinarix@gmail.com
- * victortassinari@outlook.com
-*/
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
