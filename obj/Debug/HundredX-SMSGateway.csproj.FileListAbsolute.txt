@@ -1,0 +1,15 @@
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\HundredXSMSGateway.Form1.resources
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\HundredX-SMSGateway.csproj.GenerateResource.Cache
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\PROJETOS VISUAL STUDIO E NETBEANS\HundredXSMSGateway\obj\Debug\WindowsFormsApplication6.exe
+D:\PROJETOS VISUAL STUDIO E NETBEANS\HundredXSMSGateway\obj\Debug\WindowsFormsApplication6.pdb
+D:\PROJETOS VISUAL STUDIO E NETBEANS\HundredXSMSGateway\bin\Debug\WindowsFormsApplication6.exe
+D:\PROJETOS VISUAL STUDIO E NETBEANS\HundredXSMSGateway\bin\Debug\WindowsFormsApplication6.pdb
+D:\PROJETOS VISUAL STUDIO E NETBEANS\HundredXSMSGateway\obj\Debug\HundredX-SMSGateway.csprojResolveAssemblyReference.cache
+D:\PROJETOS VISUAL STUDIO E NETBEANS\HundredXSMSGateway\obj\Debug\HundredXSMSGateway.Form1.resources
+D:\PROJETOS VISUAL STUDIO E NETBEANS\HundredXSMSGateway\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\PROJETOS VISUAL STUDIO E NETBEANS\HundredXSMSGateway\obj\Debug\HundredX-SMSGateway.csproj.GenerateResource.Cache

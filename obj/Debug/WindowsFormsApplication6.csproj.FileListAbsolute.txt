@@ -1,0 +1,16 @@
+c:\users\victor tassinari\documents\visual studio 2013\Projects\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\victor tassinari\documents\visual studio 2013\Projects\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\victor tassinari\documents\visual studio 2013\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\victor tassinari\documents\visual studio 2013\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\victor tassinari\documents\visual studio 2013\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\victor tassinari\documents\visual studio 2013\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\victor tassinari\documents\visual studio 2013\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\victor tassinari\documents\visual studio 2013\Projects\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\PROJETOS VISUAL STUDIO E NETBEANS\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
