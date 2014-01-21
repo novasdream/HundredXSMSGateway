@@ -1,8 +1,12 @@
-﻿using System;
+﻿/*
+ DESENVOLVIDO POR VICTOR TASSINARI MARTINS
+ * victortassinarix@gmail.com
+ * victortassinari@outlook.com
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
-
 namespace HundredXSMSGateway
 {
     static class Program
