@@ -16,7 +16,7 @@ namespace SMS
         SerialPort serialPort;
         public sms(string comPort)
         {
-            this.serialPort = new SerialPort();
+            this.serialPort = new SerialPort(); 
             this.serialPort.PortName = comPort;
             this.serialPort.BaudRate = 9600;
             this.serialPort.Parity = Parity.None;
